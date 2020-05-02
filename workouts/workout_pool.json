@@ -226,7 +226,7 @@
      "intr":"25",
      "rest":"15",
      "reps":"30"},
-  
+
     {"name":"V-Ups/Elevated Crunches",
      "type":"main_ab",
      "rnds":"4",
@@ -274,7 +274,104 @@
      "rnds":"60",
      "intr":"60",
      "rest":"15",
-     "reps":""}
+     "reps":""},
+
+    {"name":"Lateral Lunges",
+     "type":"warmup_lo",
+     "rnds":"3",
+      "intr":"60",
+      "rest":"15",
+      "reps":"15 each side"},
+
+    {"name":"Split Squat Jumps",
+     "type":"main_lo",
+     "rnds":"3",
+     "intr":"30",
+     "rest":"15",
+     "reps":":30"},
+
+    {"name":"Straight Leg Bicycle Crunches",
+     "type":"main_ob",
+     "rnds":"4",
+     "intr":"50",
+     "rest":"15",
+     "reps":"15 each side"},
+
+    {"name":"Mountain Climbers",
+     "type":"main_up",
+     "rnds":"3",
+     "intr":"60",
+     "rest":"15",
+     "reps":"1:00"},
+
+    {"name":"Sit Up Twist",
+     "type":"main_ob",
+     "rnds":"4",
+     "intr":"40",
+     "rest":"15",
+     "reps":"10 each side"},
+
+    {"name":"Reverse Cruches",
+     "type":"main_ab",
+     "rnds":"4",
+     "intr":"45",
+     "rest":"15",
+     "reps":"30"},
+
+    {"name":"Inchworm Walkout with Push Up",
+     "type":"warmup_up",
+     "rnds":"3",
+     "intr":"30",
+     "rest":"15",
+     "reps":"5"},
+
+    {"name":"Plank Weight Transfer",
+     "type":"main_up",
+     "rnds":"3",
+     "intr":"40",
+     "rest":"15",
+     "reps":"10 each side"},
+
+    {"name":"Prone Touches",
+     "type":"warmup_up",
+     "rnds":"3",
+     "intr":"20",
+     "rest":"15",
+     "reps":"15 each side"},
+
+    {"name":"Boat Hold",
+     "type":"main_ab",
+     "rnds":"4",
+     "intr":"40",
+     "rest":"15",
+     "reps":":45"},
+
+    {"name":"Side Plank Knee Drives",
+     "type":"main_ob",
+     "rnds":"4",
+     "intr":"30",
+     "rest":"15",
+     "reps":"15"},
+
+    {"name":"High Plank to Low Plank",
+     "type":"main_up",
+     "rnds":"3",
+     "intr":"40",
+     "rest":"15",
+     "reps":"20"},
+
+    {"name":"Single Leg Piston Squat",
+     "type":"main_lo",
+     "rnds":"3",
+     "intr":"50",
+     "rest":"15",
+     "reps":"10 each leg"},
+
+    {"name":"Weighted Dynamic Blackburns",
+     "type":"main_bk",
+     "rnds":"4",
+     "intr":"30",
+     "rest":"15",
+     "reps":":30"}
+
 ]
-
-
