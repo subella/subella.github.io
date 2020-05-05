@@ -13,19 +13,12 @@
      "rest":"15",
      "reps":"20"},
 
-    {"name":"Push Up Plank Hold",
+    {"name":"Low Push Up Hold",
      "type":"main_up",
      "rnds":"3",
      "intr":"45",
      "rest":"15",
-     "reps":"20"},
-
-    {"name":"Straight Arm Pull Down",
-     "type":"main_up",
-     "rnds":"3",
-     "intr":"40",
-     "rest":"15",
-     "reps":"20"},
+     "reps":":45"},
 
     {"name":"Feet Elevated Push Up",
      "type":"main_up",
@@ -33,7 +26,6 @@
      "intr":"25",
      "rest":"15",
      "reps":"15"},
-
 
     {"name":"Handstand Push Up",
      "type":"main_up",
@@ -95,9 +87,9 @@
     {"name":"Squat Jumps",
      "type":"main_lo",
      "rnds":"3",
-     "intr":"45",
+     "intr":"30",
      "rest":"15",
-     "reps":"15"},
+     "reps":"20"},
 
     {"name":"Lunges",
      "type":"warmup_lo",
@@ -132,7 +124,7 @@
      "rnds":"3",
      "intr":"35",
      "rest":"15",
-     "reps":"10 each leg"},
+     "reps":"20"},
 
     {"name":"Calf Raises",
      "type":"main_lo",
@@ -188,7 +180,7 @@
     {"name":"Side Crunches",
      "type":"main_ob",
      "rnds":"4",
-     "intr":"45",
+     "intr":"35",
      "rest":"15",
      "reps":"30"},
 
@@ -230,7 +222,7 @@
     {"name":"V-Ups/Elevated Crunches",
      "type":"main_ab",
      "rnds":"4",
-     "intr":"50",
+     "intr":"45",
      "rest":"15",
      "reps":"10/20"},
 
@@ -321,7 +313,7 @@
     {"name":"Inchworm Walkout with Push Up",
      "type":"warmup_up",
      "rnds":"3",
-     "intr":"30",
+     "intr":"45",
      "rest":"15",
      "reps":"5"},
 
@@ -337,12 +329,12 @@
      "rnds":"3",
      "intr":"20",
      "rest":"15",
-     "reps":"15 each side"},
+     "reps":"20"},
 
     {"name":"Boat Hold",
      "type":"main_ab",
      "rnds":"4",
-     "intr":"40",
+     "intr":"45",
      "rest":"15",
      "reps":":45"},
 
@@ -372,6 +364,13 @@
      "rnds":"4",
      "intr":"30",
      "rest":"15",
-     "reps":":30"}
+     "reps":":30"},
+
+    {"name":"SL Reach and Jump",
+     "type":"main_lo",
+     "rnds":"3",
+     "intr":"",
+     "rest":"15",
+     "reps":"20"}
 
 ]
