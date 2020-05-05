@@ -1,6 +1,6 @@
 var workout_list = [
   {
-    "date": "2020-05-05T14:00:00+00:00",
+    "date": "2020-05-04T14:00:00+00:00",
     "workout": [
       {
         "name": "Bicycles",
