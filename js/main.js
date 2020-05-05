@@ -134,7 +134,20 @@ function startCountdown(workout, workout_date){
 function printWorkout(workout){
   var set = "";
   for (var i = 0; i < workout.length; i++){
-    set += "<br>" + workout[i]["reps"] + " " + workout[i]["name"];
+    if (+workout[i]["rnds"] == 3 && (workout[i]["type"] !== "big_bertha" || workout[i]["name"] == "Sit Up Hold")){
+
+      set += "<br>" + "3X {";
+      set += "<br>" +  workout[i]["reps"] + " " + workout[i]["name"];
+      i += 2;
+      set += "<br>" + workout[i]["reps"] + " " + workout[i]["name"] + "}";
+      set += "<br>"
+      i +=(+workout[i]["rnds"] * 4 - 3);
+
+    } else if (workout[i]["name"] !== "Rest") {
+      set += "<br>" + workout[i]["rnds"] + "X " + workout[i]["reps"] + " " + workout[i]["name"];
+      i += (+workout[i]["rnds"] *2 - 1);
+    }
+
     }
     var newWindow = window.open();
     newWindow.document.write(set);
