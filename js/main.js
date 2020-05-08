@@ -134,7 +134,7 @@ function startCountdown(workout, workout_date){
 function printWorkout(workout){
   var set = "";
   for (var i = 0; i < workout.length; i++){
-    if (+workout[i]["rnds"] == 3 && (workout[i]["type"] !== "big_bertha" || workout[i]["name"] == "Sit Up Hold")){
+    if (+workout[i]["rnds"] == 3 && (workout[i]["type"] !== "big_bertha" || workout[i]["name"] !== "Sit Up Hold")){
 
       set += "<br>" + "3X {";
       set += "<br>" +  workout[i]["reps"] + " " + workout[i]["name"];
