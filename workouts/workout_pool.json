@@ -317,13 +317,6 @@
      "rest":"15",
      "reps":"5"},
 
-    {"name":"Plank Weight Transfer",
-     "type":"main_ab",
-     "rnds":"3",
-     "intr":"40",
-     "rest":"15",
-     "reps":"20"},
-
     {"name":"Prone Touches",
      "type":"warmup_up",
      "rnds":"3",
