@@ -447,7 +447,7 @@ var workout_list = [
     ]
   },
   {
-    "date": "2020-06-16T21:00:00+00:00",
+    "date": "2020-06-16T20:35:00+00:00",
     "workout": [
       {
         "name": "Jumping Jacks",
