@@ -473,7 +473,7 @@ var workout_list = [
     ]
   },
   {
-    "date": "2020-12-19T17:00:00+00:00",
+    "date": "2020-12-19T18:00:00+00:00",
     "workout": [
       {
         "name": "Jumping Jacks",
